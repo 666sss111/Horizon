@@ -62,7 +62,7 @@
     ],
     "hackernews": {
       "enabled": true,
-      "fetch_top_stories": 30,
+      "fetch_top_stories": 20,
       "min_score": 100,
       "profile": "tech-news"
     },
@@ -112,7 +112,7 @@
           "enabled": true,
           "sort": "hot",
           "time_filter": "day",
-          "fetch_limit": 10,
+          "fetch_limit": 6,
           "min_score": 60,
           "profile": "tech-news"
         },
@@ -121,7 +121,7 @@
           "enabled": true,
           "sort": "hot",
           "time_filter": "day",
-          "fetch_limit": 10,
+          "fetch_limit": 6,
           "min_score": 60,
           "profile": "tech-news"
         }
@@ -161,7 +161,7 @@
         {
           "channel": "zaihuapd",
           "enabled": true,
-          "fetch_limit": 20,
+          "fetch_limit": 10,
           "profile": "tech-news"
         }
       ]
@@ -183,7 +183,7 @@
       "language": "zh",
       "country": "CN",
       "ceid": "CN:zh",
-      "max_results": 100,
+      "max_results": 40,
       "category": "ai-cn",
       "profile": "tech-news"
     }
